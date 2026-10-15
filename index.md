@@ -38,8 +38,8 @@ These narratives explain the enhancement process, challenges encountered, and co
 ### 1. Software Design & Engineering Narrative
 * **Summary:** *//include the narrative text here directly*
 
-* ### 2. Algorithms & Data Structures Narrative
+### 2. Algorithms & Data Structures Narrative
 * **Summary:** *//include the narrative text here directly*
 
-* ### 3. Database Narrative
+### 3. Database Narrative
 * **Summary:** *//include the narrative text here directly*
